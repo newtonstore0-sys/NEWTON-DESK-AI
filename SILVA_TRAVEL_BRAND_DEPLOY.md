@@ -20,5 +20,15 @@ This playbook outlines the steps to launch the Silva Travel AI platform.
    - Announce the launch to stakeholders.
    - Monitor the system closely after launch.
 
+---
+
+## 📝 Feature Checklist & Requirements
+
+- [ ] 🧭 Multilingual landing page with Tamil-English toggles
+- [ ] 🛡️ Compliance dashboard for GDPR, DPDP, and ICO
+- [ ] 🤖 Agent registry with onboarding flows for sellers and travelers
+- [ ] 📦 CI/CD pipeline for Netlify, Vercel, or Firebase Functions
+- [ ] 🎙️ Voice narration hooks for SOS and trust modules
+
 ## Conclusion
 This playbook serves as a guide for deploying the Silva Travel AI platform efficiently.
